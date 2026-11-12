@@ -2,7 +2,7 @@ main:
   - title: "Home"
     url: /
   - title: "CV"
-    url: /assets/CV_Tommi_Haberstock.pdf
+    url: /assets/images/CV_Tommi_Haberstock.pdf
   - title: "Projects"
     url: /projects/
   - title: "Thesis"
