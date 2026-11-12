@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Tommi Haberstock"
-  avatar : "/assets/images/Foto_Tommi_Haberstock.jpg""
+  avatar : "/assets/images/Foto_Tommi_Haberstock.jpg"
   bio    : "Copernicus Master in Digital Earth student with interests in geovisualization, remote sensing, and hydrological modelling"
   links:
     - label: "Website"
