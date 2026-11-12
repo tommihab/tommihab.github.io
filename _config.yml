@@ -57,12 +57,15 @@ plugins:
 
 author:
   name   : "Tommi Haberstock"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/Foto_Tommi_Haberstock.jpg""
   bio    : "Copernicus Master in Digital Earth student with interests in geovisualization, remote sensing, and hydrological modelling"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "/#email"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/tommi-haberstock"
