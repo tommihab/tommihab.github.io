@@ -3,6 +3,8 @@ main:
     url: /
   - title: "CV"
     url: /assets/CV_Tommi_Haberstock.pdf
+  - title: "Projects"
+    url: /projects/
   - title: "Posts"
     url: /posts/
   - title: "Categories"
