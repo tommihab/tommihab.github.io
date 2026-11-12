@@ -1,4 +1,8 @@
 main:
+  - title: "Home"
+    url: /
+  - title: "CV"
+    url: /assets/tommi-haberstock-cv.pdf
   - title: "Posts"
     url: /posts/
   - title: "Categories"
